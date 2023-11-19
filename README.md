@@ -1,4 +1,4 @@
-# music_app_backend
+# FindU_backend
 A cloud and react based social network application
 
 # Tech Stack
